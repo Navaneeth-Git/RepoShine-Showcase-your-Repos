@@ -226,10 +226,6 @@ We welcome contributions! Please see our contributing guidelines:
 - Add Framer Motion animations for new interactive elements
 - Test with multiple GitHub profiles and edge cases
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **GitHub** - For providing the excellent REST API
